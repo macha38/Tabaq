@@ -1,0 +1,6 @@
+framework module Pods_Banzuke {
+  umbrella header "Pods-Banzuke-umbrella.h"
+
+  export *
+  module * { export * }
+}
